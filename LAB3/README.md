@@ -19,7 +19,7 @@ These variables are declared similarly as instance variables, the difference is 
 You can create a single copy of static variable and share among all the instances of the class.
 
 ### Implentation of types of Variables
-
+rahaapal emm vlaaa
 ```javascript
 class variable{
 	int data=43;//instance variable
