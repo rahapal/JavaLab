@@ -9,3 +9,8 @@ class TestFinallyBlock{
   System.out.println("rest of the code...");  
   }  
 }  
+
+
+Output:5
+       finally block is always executed
+       rest of the code...
