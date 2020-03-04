@@ -1,4 +1,4 @@
-class TestFinallyBlock{  
+class Exceptest{  
   public static void main(String args[]){  
   try{  
    int data=25/5;  
